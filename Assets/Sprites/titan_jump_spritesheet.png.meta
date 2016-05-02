@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 88585f561f3e7254d94c427800189f84
+timeCreated: 1462077360
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: titan_jump_spritesheet_0
+    21300002: titan_jump_spritesheet_1
+    21300004: titan_jump_spritesheet_2
+    21300006: titan_jump_spritesheet_3
+    21300008: titan_jump_spritesheet_4
+    21300010: titan_jump_spritesheet_5
+    21300012: titan_jump_spritesheet_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: titan_jump_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 55
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3815885, y: 0.5323777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.987368, y: 25.927826}
+        - {x: -17.987368, y: 19.927826}
+        - {x: -17.987368, y: -34.072174}
+        - {x: 34.012634, y: -34.072174}
+        - {x: 34.012634, y: 17.927826}
+        - {x: 15.012632, y: 25.927826}
+    - name: titan_jump_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 336
+        width: 55
+        height: 64
+      alignment: 9
+      pivot: {x: 0.36544147, y: 0.57400656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.90072, y: 7.2635803}
+        - {x: 23.900719, y: 13.26358}
+        - {x: 6.9007187, y: 27.26358}
+        - {x: -13.099281, y: 27.26358}
+        - {x: -16.099281, y: 8.26358}
+        - {x: -16.099281, y: -36.73642}
+        - {x: -8.099281, y: -36.73642}
+        - {x: -6.0992813, y: -34.73642}
+        - {x: -1.0992813, y: -36.73642}
+        - {x: 15.900719, y: -36.73642}
+        - {x: 20.900719, y: -15.73642}
+        - {x: 33.90072, y: 2.2635803}
+    - name: titan_jump_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 336
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2900887, y: 0.57863235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.214348, y: 26.96753}
+        - {x: -11.214348, y: 22.96753}
+        - {x: -11.214348, y: -34.03247}
+        - {x: -10.214348, y: -37.03247}
+        - {x: 20.785652, y: -37.03247}
+        - {x: 32.785652, y: -12.032471}
+        - {x: 32.785652, y: 16.96753}
+        - {x: 16.785652, y: 26.96753}
+    - name: titan_jump_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 336
+        width: 51
+        height: 64
+      alignment: 9
+      pivot: {x: 0.33852983, y: 0.51387596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.734985, y: 29.111938}
+        - {x: -3.2650146, y: 29.111938}
+        - {x: -10.265015, y: 24.111938}
+        - {x: -10.265015, y: -9.888062}
+        - {x: -9.265015, y: -23.888062}
+        - {x: -6.2650146, y: -27.888062}
+        - {x: 1.7349854, y: -32.88806}
+        - {x: 8.734985, y: -32.88806}
+        - {x: 9.734985, y: -29.888062}
+        - {x: 31.734985, y: -3.8880615}
+        - {x: 31.734985, y: 18.111938}
+    - name: titan_jump_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 44
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3250736, y: 0.54625416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.696762, y: 26.039734}
+        - {x: -3.303238, y: 26.039734}
+        - {x: -7.303238, y: 25.039734}
+        - {x: -13.303238, y: 20.039734}
+        - {x: -13.303238, y: 9.039734}
+        - {x: -9.303238, y: -24.960266}
+        - {x: -1.3032379, y: -30.960266}
+        - {x: 7.696762, y: -30.960266}
+        - {x: 27.696762, y: -17.960266}
+        - {x: 28.696762, y: -6.960266}
+        - {x: 28.696762, y: 22.039734}
+    - name: titan_jump_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 336
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 0.31498146, y: 0.5508795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.88089, y: 25.743713}
+        - {x: -13.11911, y: 25.743713}
+        - {x: -13.11911, y: -27.256287}
+        - {x: -10.11911, y: -30.256287}
+        - {x: 1.8808899, y: -30.256287}
+        - {x: 22.88089, y: -22.256287}
+        - {x: 32.88089, y: 2.7437134}
+        - {x: 32.88089, y: 7.7437134}
+        - {x: 31.88089, y: 9.743713}
+    - name: titan_jump_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 336
+        width: 49
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39433008, y: 0.6017585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.322174, y: 21.487457}
+        - {x: -9.322174, y: -19.512543}
+        - {x: -8.322174, y: -21.512543}
+        - {x: 5.677826, y: -21.512543}
+        - {x: 13.677826, y: -18.512543}
+        - {x: 29.677826, y: 1.4874573}
+        - {x: 29.677826, y: 14.487457}
+        - {x: 18.677826, y: 21.487457}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
